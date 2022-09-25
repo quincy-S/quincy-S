@@ -13,7 +13,7 @@
   </a>
 </div>
 </div>
-<div align="center" ><img src="https://komarev.com/ghpvc/?username=asare-21&style=flat-square&color=blue" alt=""/></div>
+<div align="center" ><img src="https://komarev.com/ghpvc/?username=quincy-S&style=flat-square&color=blue" alt=""/></div>
 </div>
 <h1>
   Hey! Quincy here☺️
