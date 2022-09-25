@@ -17,6 +17,17 @@
   Hey! Quincy here☺️
 </h1>
 
+
+I'm a Frontend Software Engineer. I'm also quite passionate about Backend Engineering.
+
+**Here's a quick summary about me**:
+
+- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) and Tech1Million [Frontend Engineering Cohort](https://app.tech1m.com) Class of 2022.
+- 🌱 I’m currently learning Reactjs, and other Amazing Frontend technologies.
+- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
+- 💼 Job interests: Software Engineer, Frontend Engineer, or UI Engineer (Intern or Junior level).
+- 📫 You can [view my portfolio](https://tunji-portfolio.netlify.app/) and contact me by emailing quincy.nbsa@gmail.com.
+
 ### Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
