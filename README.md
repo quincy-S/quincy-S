@@ -31,8 +31,8 @@
 
 
  ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=asare-21&theme=nord&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asare-21&theme=github_dark)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=quincy-S&theme=nord&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quincy-S&theme=github_dark)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=quincy-S&count_private=true)
 
 
