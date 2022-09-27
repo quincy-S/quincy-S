@@ -18,7 +18,7 @@
 </h1>
 
 
-I'm a Frontend Software Engineer. I'm also quite passionate about Backend Engineering.
+I build apps for the web.
 
 **Here's a quick summary about me**:
 
