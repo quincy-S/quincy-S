@@ -22,10 +22,10 @@ I build apps for the web.
 
 **Here's a quick summary about me**:
 
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) and Tech1Million [Frontend Engineering Cohort](https://app.tech1m.com) Class of 2022.
-- 🌱 I’m currently learning Reactjs, and other Amazing Frontend technologies.
+- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) class of 2022.
+- 🌱 I’m currently learning Reactjs, and other amazing Frontend technologies.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Frontend Engineer, or UI Engineer (Intern or Junior level).
+- 💼 Job interests: Software Engineer, Frontend Engineer.
 
 
 ### Languages and Tools:
