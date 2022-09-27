@@ -26,7 +26,7 @@ I'm a Frontend Software Engineer. I'm also quite passionate about Backend Engine
 - 🌱 I’m currently learning Reactjs, and other Amazing Frontend technologies.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Frontend Engineer, or UI Engineer (Intern or Junior level).
-- 📫 You can [view my portfolio](https://tunji-portfolio.netlify.app/) and contact me by emailing quincy.nbsa@gmail.com.
+
 
 ### Languages and Tools:
 <div>
