@@ -18,12 +18,10 @@
 </h1>
 
 
-I build apps for the web.
+I build apps for the web, mobile and desktop.
 
 **Here's a quick summary about me**:
 
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) class of 2022.
-- 🌱 I’m currently learning Reactjs, and other amazing Frontend technologies.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Frontend Engineer.
 
